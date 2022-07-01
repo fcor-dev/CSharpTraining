@@ -1,0 +1,15 @@
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\bin\Debug\net6.0\Training.exe
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\bin\Debug\net6.0\Training.deps.json
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\bin\Debug\net6.0\Training.runtimeconfig.json
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\bin\Debug\net6.0\Training.dll
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\bin\Debug\net6.0\Training.pdb
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.csproj.AssemblyReference.cache
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.AssemblyInfoInputs.cache
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.AssemblyInfo.cs
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.csproj.CoreCompileInputs.cache
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.dll
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\refint\Training.dll
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.pdb
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\Training.genruntimeconfig.cache
+D:\Facundo\Desarrollo\2022\CSharp\CSharpTraining\Training\Training\obj\Debug\net6.0\ref\Training.dll
